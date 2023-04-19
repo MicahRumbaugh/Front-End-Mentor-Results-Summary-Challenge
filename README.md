@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://micahrumbaugh.github.io/Front-End-Mentor-Results-Summary-Challenge/](https://micahrumbaugh.github.io/Front-End-Mentor-Results-Summary-Challenge/)
+- Live Site URL: [Working on it](Working on it)
 
 ## My process
 
